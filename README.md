@@ -1,4 +1,4 @@
-# jest-test
+# vue-jest-test
 
 vue jest 환경설정 셋팅 연습
 
